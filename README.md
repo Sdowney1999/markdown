@@ -7,12 +7,10 @@
         <title>Markdown excerise</title>
         <meta name="description" content="An interactive getting started guide for Brackets.">
     </head>
-
-    <body>
     
-        <h2> IRELANDS RUGGED COAST YEILDS </h2>
+        <h1> IRELANDS RUGGED COAST YEILDS </h1>
         
-        <B> <h1> Priceless Relics of the Spanish Armada </h1>
+        <h1> Priceless Relics of the Spanish Armada </h1>
         
     <h3> by ROBERT STENUIT </h3>
      
@@ -53,5 +51,4 @@ The wind won. White water boiled off the starboard bow. A scream from the lookou
 
 Message ixd101
 
-    </body>
 </html>
